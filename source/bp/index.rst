@@ -1,10 +1,8 @@
-Paslands
+ベアン紀
 ================================================================================
+
 
 .. toctree::
    :maxdepth: 2
 
-   ss/index
-   bp/index
-   rp/index
-
+   languages/index
