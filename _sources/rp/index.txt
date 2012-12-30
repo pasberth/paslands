@@ -6,3 +6,4 @@
 
    species/index
    cultures/index
+   languages/index
