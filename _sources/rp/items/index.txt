@@ -1,10 +1,9 @@
-ルン紀
+アイテム
 ================================================================================
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   cultures/index
-   languages/index
-   items/index
+   crystal_of_repulsion
+   light_stone
+   unweight_stone
