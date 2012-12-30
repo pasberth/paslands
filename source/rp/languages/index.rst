@@ -1,9 +1,7 @@
-ルン紀
+言語
 ================================================================================
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   cultures/index
-   languages/index
+   beanish
