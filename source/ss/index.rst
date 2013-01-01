@@ -13,3 +13,4 @@
 
    cultures/index
    history/index
+   planets/index
