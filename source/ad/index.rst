@@ -1,9 +1,7 @@
-ベアン紀
+西暦
 ================================================================================
-
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   languages/index
+   characters/index
