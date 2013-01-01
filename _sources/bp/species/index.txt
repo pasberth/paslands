@@ -1,9 +1,9 @@
-ベアン紀
+ベアン紀の種族
 ================================================================================
-
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   languages/index
+   pure_besim
+   dorkain
+   lunim
