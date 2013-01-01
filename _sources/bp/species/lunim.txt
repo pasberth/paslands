@@ -3,6 +3,7 @@
 
 
 :スペル: Lunim
+:先祖: :doc:`/ad/species/man`
 :その他の呼称: ルーナの子ら
 
 概要
