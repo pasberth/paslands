@@ -1,10 +1,8 @@
-西暦
+文化
 ================================================================================
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   cultures/index
-   technologies/index
-   characters/index
+   doppel_shock
+   copy_panic

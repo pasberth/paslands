@@ -1,10 +1,7 @@
-西暦
+技術
 ================================================================================
 
 .. toctree::
    :maxdepth: 2
 
-   species/index
-   cultures/index
-   technologies/index
-   characters/index
+   copy
