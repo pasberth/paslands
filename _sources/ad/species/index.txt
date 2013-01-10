@@ -4,5 +4,6 @@
 .. toctree::
    :maxdepth: 2
 
+   alife
    man
    jellyhands
