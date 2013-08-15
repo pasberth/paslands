@@ -8,5 +8,5 @@
    cultures/index
    languages/index
    items/index
-   nations/index
+   lands/index
    characters/index
