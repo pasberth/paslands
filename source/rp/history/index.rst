@@ -4,4 +4,5 @@
 .. toctree::
    :maxdepth: 2
 
-   exile
+   three_war
+   2nd_three_war
