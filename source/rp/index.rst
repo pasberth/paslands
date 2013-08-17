@@ -6,6 +6,7 @@
 
    species/index
    cultures/index
+   history/index
    languages/index
    items/index
    lands/index
