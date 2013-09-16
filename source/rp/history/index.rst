@@ -6,3 +6,4 @@
 
    three_war
    2nd_three_war
+   slave_laws
